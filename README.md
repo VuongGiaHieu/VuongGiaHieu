@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuongGiaHieu
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning Secondary
+- 🌱 I’m currently learning Secondary School
 - 💞️ I’m looking to collaborate on my crush =)))
 
 <!---
